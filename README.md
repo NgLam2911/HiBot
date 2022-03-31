@@ -6,9 +6,9 @@ pip install -r requirements.txt
 ```
 # Run
 ```
-py HiBot.py
+py hibot.py
 ```
 OR
 ```
-python3 HiBot.py
+python3 hibot.py
 ```
